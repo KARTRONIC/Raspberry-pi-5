@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/yann/Desktop/Raspberry-pi-5/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++ -isystem /usr/include/opencv4 -g -o CMakeFiles/distance_stereo.dir/src/main.cpp.o -c /home/yann/Desktop/Raspberry-pi-5/distance_stereo/src/main.cpp",
+  "file": "/home/yann/Desktop/Raspberry-pi-5/distance_stereo/src/main.cpp",
+  "output": "CMakeFiles/distance_stereo.dir/src/main.cpp.o"
+}
+]
