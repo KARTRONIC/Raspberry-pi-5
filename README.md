@@ -20,3 +20,6 @@ taches :
 
 - communication rs485 
 
+POUR COMPILER LE PROJET :
+
+A la racine, faire ./compile.sh 
