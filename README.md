@@ -4,6 +4,8 @@ Yann Lydia Louis Marion
 
 gestion temps reel du raspberry pi pour la mesure stéréoscopique de la distance avec le kart de devant, l'affichage HUD des informations, la communication avec la WebApp. 
 
+chaque fonction doit être testée séparément dans un dossier projet dédié, puis intégrée au programme principal.
+
 taches :
 
 - main
@@ -20,6 +22,6 @@ taches :
 
 - communication rs485 
 
-POUR COMPILER LE PROJET :
+POUR COMPILER LES PROJET :
 
 A la racine, faire ./compile.sh 
