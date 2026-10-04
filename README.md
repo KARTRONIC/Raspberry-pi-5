@@ -2,7 +2,7 @@
 
 Yann Lydia Louis Marion
 
-gestion temps reel du raspberry pi pour la mesure stéréoscopique de la distance avec le kart de devant, l'affichage HUD des informations. 
+gestion temps reel du raspberry pi pour la mesure stéréoscopique de la distance avec le kart de devant, l'affichage HUD des informations, la communication avec la WebApp. 
 
 taches :
 
